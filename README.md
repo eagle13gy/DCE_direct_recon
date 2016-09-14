@@ -1,4 +1,4 @@
 # DCE_direct_recon
 Direct reconstruction source codes
 testing DOI
-https://zenodo.org/badge/62177469.svg
+DOI 10.5281/zenodo.154055
